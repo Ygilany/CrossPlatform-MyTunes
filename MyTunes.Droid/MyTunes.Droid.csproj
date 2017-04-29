@@ -69,4 +69,7 @@
   <ItemGroup>
     <Folder Include="Resources\layout\" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\songs.json" />
+  </ItemGroup>
 </Project>

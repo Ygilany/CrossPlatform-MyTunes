@@ -1,0 +1,7 @@
+/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/Default-568h@2x.png
+/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/bin/iPhoneSimulator/Debug/MyTunesiOS.exe.mdb
+/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/bin/iPhoneSimulator/Debug/MyTunesiOS.exe
+/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/obj/iPhoneSimulator/Debug/MyTunesiOS.exe
+/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/obj/iPhoneSimulator/Debug/MyTunesiOS.exe.mdb

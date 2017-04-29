@@ -1,0 +1,36 @@
+# Version: 10.8.0.175 (d15-1: a04678c2)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.8.0.175/lib/mtouch/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.8.0.175/lib/mtouch/mtouch.exe \
+	--cache \
+	/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-cache \
+	--sim \
+	/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/MyTunesiOS.app \
+	--executable \
+	MyTunesiOS \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.3 \
+	--targetver \
+	6.0 \
+	--http-message-handler=HttpClientHandler \
+	--abi=i386 \
+	--symbollist \
+	/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/yahyagilany/Documents/projects/Xamarin/University/XAM110/XAM110-ex1-start/MyTunes.iOS/bin/iPhoneSimulator/Debug/MyTunesiOS.exe \

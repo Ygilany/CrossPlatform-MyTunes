@@ -1,12 +1,19 @@
 ﻿<Properties StartupConfiguration="{A3D17E5F-2659-4EAD-87A1-3B7E56E90807}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="XAM110-ex1-start Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyTunes.iOS/MyTunesViewController.cs">
     <Files>
       <File FileName="MyTunes.Shared/SongLoader.cs" Line="25" Column="30" />
       <File FileName="MyTunes.iOS/ViewControllerSource.cs" Line="1" Column="1" />
-      <File FileName="MyTunes.iOS/MyTunesViewController.cs" Line="16" Column="4" />
+      <File FileName="MyTunes.iOS/MyTunesViewController.cs" Line="22" Column="13" />
       <File FileName="MyTunes.iOS/Main.cs" Line="17" Column="1" />
       <File FileName="XAM110-ex1-start Status" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyTunes" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 5.0.0.78" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
